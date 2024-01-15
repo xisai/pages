@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: personal access block filter
+! Homepage: 
+!
+!
+! Last updated: 2024-01-15
+
+||example.com^
+||sejuku.net^
+||techacademy.jp^
